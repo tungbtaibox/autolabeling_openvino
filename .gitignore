@@ -1,0 +1,6 @@
+opencv/
+Model/
+build/
+openvino/
+yolov8*.cpp
+CMakeLists.txt.user
